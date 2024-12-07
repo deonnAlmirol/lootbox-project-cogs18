@@ -1,9 +1,11 @@
-purchase box system
-sell item system
-finish opening box system
-write all probabilikties for opening boxes functions
+purchase box system*
+sell item system*
+finish opening box system*
+write all probabilikties for opening boxes functions*
 
 make a new game script
+
+work on notebook details
 
 documentation
 commenting
