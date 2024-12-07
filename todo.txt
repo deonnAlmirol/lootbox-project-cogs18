@@ -1,0 +1,13 @@
+purchase box system
+sell item system
+finish opening box system
+write all probabilikties for opening boxes functions
+
+make a new game script
+
+documentation
+commenting
+refactoring
+debugging
+
+read rich documentation
